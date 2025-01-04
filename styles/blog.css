@@ -2,3 +2,5 @@ div{
       background-color:rgb(115, 202, 34);
       padding: 190px;
 }
+h2{background-color: bisque; border-top-left-radius: 10%;box-sizing: inherit;
+box-shadow: cadetblue 3;}
